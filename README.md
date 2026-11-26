@@ -4,10 +4,10 @@
 
 #### 🌐 Me trouver :
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON_PSEUDO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/th%C3%A9o-guilbert-hattermann-2744031a5/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:theo.guilberthattermann@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tguihatpro)
-[![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~TON_PSEUDO_NPM)
+[![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/node-red-contrib-nodes7-dynamic)
 
 ---
 
@@ -146,7 +146,7 @@ Les enceintes climatiques qui testent les équipements avioniques utilisent des 
 
 Nœud Node-RED développé de toutes pièces en **JavaScript** dans le cadre du projet des enceintes climatiques, puis publié sur **npm** avec sa documentation.
 
-**Package :** https://www.npmjs.com/package/NOM_DU_PACKAGE
+**Package :** https://www.npmjs.com/package/node-red-contrib-nodes7-dynamic
 
 ---
 
